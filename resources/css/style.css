@@ -12,7 +12,7 @@ body {
     color: white;
 }
 
-#dlex {
+h4 {
     color: aquamarine;
     font-size: 16px;
     font-weight: normal;
@@ -27,4 +27,11 @@ h2 {
     font-size: 21px;
     color: gray;
     font-weight: normal;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+    font-weight: lighter;
+
 }
